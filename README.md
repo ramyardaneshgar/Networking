@@ -120,7 +120,7 @@ By issuing a raw GET request and analyzing the headers and body, I could validat
 
 * **Practical TCP/IP Knowledge:** This exercise demonstrated TCP session establishment without automation. I had full visibility into what was sent, received, and how protocols behave.
 
-* **Testing Without Tools:** Knowing how to simulate application behavior without relying on tools (e.g., curl, Postman, browsers) is critical for protocol debugging, penetration testing, and troubleshooting misconfigured services.
+* **Testing Without Tools:** Knowing how to simulate application behavior without relying on tools (curl, Postman, browsers) is critical for protocol debugging, penetration testing, and troubleshooting misconfigured services.
 
-* **Precision in Syntax Matters:** A single missing line break or header can cause the server to ignore the request entirely—highlighting the importance of strict protocol compliance.
+* **Precision in Syntax Matters:** A single missing line break or header can cause the server to ignore the request entirely highlighting the importance of strict protocol compliance.
 
